@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-	cout << "HOLA como estas italoooooooooo???" << endl;
+	cout << "HOLA como estas BRO ???" << endl;
 	return 0;
 }
